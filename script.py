@@ -4,6 +4,8 @@ import re
 import os
 from time import sleep
 
+# testing code server
+
 images = {
     'Ubuntu 24.04': 'https://cloud-images.ubuntu.com/minimal/releases/noble/release/',
     'Ubuntu 22.04': 'https://cloud-images.ubuntu.com/minimal/releases/jammy/release/'
