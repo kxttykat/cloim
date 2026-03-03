@@ -1,2 +1,2 @@
 # cloim
-cloim is a script for configuring cloud images on proxmox. it's mainly meant for my preferred configuration setup but I have tweaked it a little to make it customizable for anybody to use. If you like this script give it a star! I'll try to improve it if I'm not lazy. 
+cloim is a simple cloud configuration script that helps you customize cloud images
